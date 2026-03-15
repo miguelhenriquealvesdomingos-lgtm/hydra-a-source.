@@ -1,4 +1,14 @@
 {
-  "name": "hydra-source",
-  "version": "1.0"
+  "name": "Minha Source",
+  "games": [
+    {
+      "title": "Teste",
+      "downloads": [
+        {
+          "provider": "Teste",
+          "url": "https://example.com"
+        }
+      ]
+    }
+  ]
 }
